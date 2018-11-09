@@ -1,0 +1,32 @@
+%crest	,mirror	,flip	,prob	,res_crst	,file
+	,	,	,100	,300	,	1,	big_circle_384.png
+	,	,	,100	,	,	1,	checker.png
+	,	,1	,100	,	,	1,	checker.png
+	,	,	,60		,	,	1,	cross.png
+	,	,	,80		,	,	1,	curve.png
+	,	,	,100	,	,	1,	diagonal_line.png
+	,1	,	,100	,	,	1,	diagonal_line.png
+	,	,	,100	,	,	2,	diagonal_line_thin.png
+	,1	,	,100	,	,	2,	diagonal_line_thin.png
+	,	,	,100	,	,	1,	half_h.png
+	,	,1	,100	,	,	1,	half_h.png
+	,	,	,100	,	,	1,	half_v.png
+	,1	,	,100	,	,	1,	half_v.png
+	,	,	,100	,512	,	1,	massive_circle_r640.png
+	,	,	,100	,	,	1,	middle_thick.png
+	,	,	,5		,	,	1,	rays_180.png
+	,	,	,5		,	,	1,	rays_360.png
+	,	,	,5		,	,	1,	rays_360_sparse.png
+	,	,	,5		,	,	1,	rays_90.png
+	,	,	,5		,	,	1,	rays_one_side.png
+	,	,	,100	,200	,	1,	small_circle_r256.png
+	,	,	,30		,	,	10,	star_h.png
+	,	,	,30		,	,	10,	star_m.png
+	,	,	,30		,	,	10,	star_v.png
+	,	,	,100	,	,	1,	stripe right.png
+	,	,	,100	,	,	1,	stripe_high.png
+	,	,	,100	,	,	1,	stripe_left.png
+	,	,	,100	,	,	1,	stripe_low.png
+	,	,	,100	,	,	2,	stripe_middle_h.png
+	,	,	,100	,	,	2,	stripe_middle_v.png
+1	,	,	,5		,	,	1,	crests\*.png
