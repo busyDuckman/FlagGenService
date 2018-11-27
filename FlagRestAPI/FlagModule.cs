@@ -24,40 +24,45 @@ namespace default_NancyFXT
             
             Get("/flags/{id}", args =>
             {
-//                return "flag_" + args["id"];
-                var id = this.Request.Query["id"];
-                byte[] dataPNG =  flagPNG(id);
-
-                //var response = new GenericFileResponse();
+                var id = this.Request.Query["id"];  
+                Flag flag = genFlag(id);
+                byte[] dataPNG =flagToPNG(flag );
 
                 MemoryStream ms = new MemoryStream(dataPNG);
                 var response = new StreamResponse(() => ms, "image/png");
-//                using (MemoryStream ms = new MemoryStream(dataPNG))
-//                {
-//                    var response = new StreamResponse(() => ms, "image/png");
-//                }
-                
+
                 return response.AsAttachment("flag.png");
+            });
+            
+            
+            Get("/flags/json/{id}", args =>
+            {
+                var id = this.Request.Query["id"];  
+                Flag flag = genFlag(id);
+                
+//                JsonResponse res= new JsonResponse(,);
+//                return response.AsAttachment("flag.png");
+                return Response.AsJson((object)flag);
             });
             
             Get("/flag/get", args =>
             {
                 var id = this.Request.Query["id"];
-                return flagPNG(id);
+                Flag flag = genFlag(id);
+                return flagToPNG(flag );
             });
             
             
         }
 
-        public byte[] flagPNG(int id)
+        public byte[] flagToPNG(Flag flag)
         {
             try
             {
 
                 //return "flag_" + args["id"];
-                Flag f = genFlag(id);
                 
-                Bitmap bmp = f.Render(new Size(640, 480));
+                Bitmap bmp = flag.Render(new Size(640*2, 480*2));
                 using(MemoryStream ms = new MemoryStream())
                 {
                     bmp.Save(ms, ImageFormat.Png);

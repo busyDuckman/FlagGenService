@@ -1,6 +1,7 @@
 
 FROM microsoft/dotnet:sdk AS build-env
 WORKDIR /app
+RUN ls
 
 RUN git clone https://github.com/busyDuckman/FlagGenService.git && \
     git clone https://github.com/busyDuckman/WDLibCore
@@ -22,5 +23,5 @@ RUN dotnet publish -c Release -o out
 # Build runtime image
 FROM microsoft/dotnet:aspnetcore-runtime
 WORKDIR /app
-COPY --from=build-env /app/out .
+COPY --from=build-env /app/FlagGenService/FlagRestAPI/out .
 ENTRYPOINT ["dotnet", "aspnetapp.dll"]

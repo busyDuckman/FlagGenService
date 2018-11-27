@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="flag_layers.svg"
+   inkscape:export-filename="X:\Programming\VS 2012\2DGames\TDGame\resources\source\flags\massive_circle_r640.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57982756"
+     inkscape:cx="122.78311"
+     inkscape:cy="284.47138"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3018"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="16"
+       spacingy="16"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="horizontal stripe">
+    <g
+       style="display:none"
+       transform="translate(0,-284.36218)"
+       id="g4235"
+       inkscape:groupmode="layer"
+       inkscape:label="stripe_h_high">
+      <rect
+         y="284.36215"
+         x="0"
+         height="256"
+         width="1024"
+         id="rect4239"
+         style="fill:#0000ff;fill-rule:evenodd;stroke:none"
+         inkscape:export-filename="X:\Programming\VS 2012\2DGames\TDGame\resources\source\flags\1 stripe high.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:label="stripe_h_low"
+       inkscape:groupmode="layer"
+       id="layer1"
+       transform="translate(0,-284.36218)"
+       style="display:none">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke:none"
+         id="rect2985"
+         width="1024"
+         height="256"
+         x="0"
+         y="796.36218" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer17"
+       inkscape:label="strip_h_middle"
+       style="display:none">
+      <rect
+         style="fill:#0000ff;stroke:none"
+         id="rect4323"
+         width="1024"
+         height="256"
+         x="0"
+         y="256" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="half_v_high"
+     style="display:none">
+    <rect
+       style="fill:#0000ff;stroke:none"
+       id="rect4230"
+       width="1024"
+       height="384"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="stripe_v_thick_middle"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#0000ff;stroke:none"
+       id="rect3039-4"
+       width="1023.9998"
+       height="416"
+       x="0.00018310547"
+       y="176"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="half_h_left"
+     style="display:none">
+    <rect
+       style="fill:#0000ff;stroke:none"
+       id="rect4233"
+       width="512"
+       height="768"
+       x="0"
+       y="-1.2082403e-13" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="checker_tl_lr"
+     style="display:none">
+    <rect
+       style="fill:#0000ff;stroke:none"
+       id="rect4225"
+       width="512.00519"
+       height="384"
+       x="0"
+       y="2.4881356e-14" />
+    <rect
+       style="fill:#0000ff;stroke:none"
+       id="rect4227"
+       width="512"
+       height="384"
+       x="512"
+       y="384" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer20"
+     inkscape:label="bend">
+    <g
+       style="display:inline"
+       inkscape:label="thick bend "
+       id="g3120"
+       inkscape:groupmode="layer">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3124"
+         d="m 192,0 832,576 V 768 H 832 L 0,192 V 0 Z"
+         style="display:inline;fill:#0000ff;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3126"
+         d="m 256,0 768,512 V 768 H 768 L 0,256 V 0 Z"
+         style="display:inline;fill:#0000ff;stroke:none" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="bend"
+       style="display:inline">
+      <path
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none"
+         d="m 192,0 832,576 V 768 H 832 L 0,192 V 0 Z"
+         id="path3056"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer21"
+       inkscape:label="edged bend" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="border"
+     style="display:none" />
+  <g
+     inkscape:label="thick middle"
+     id="g3041"
+     inkscape:groupmode="layer"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       ry="0"
+       y="192"
+       x="0.00018310547"
+       height="384"
+       width="1023.9998"
+       id="rect3043"
+       style="fill:#ffff00" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Triangle"
+     style="display:none">
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 0,0 C 512,0 832,192 832,384 832,576 512,768 0,768 0,384 0,384 0,0 Z"
+       id="path3129"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="disk"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="large disk"
+       style="display:inline">
+      <circle
+         style="fill:#0000ff;stroke:none"
+         id="path3046"
+         inkscape:export-filename="X:\Programming\VS 2012\2DGames\TDGame\resources\source\flags\path3046.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         cx="512"
+         cy="384"
+         r="192" />
+    </g>
+    <ellipse
+       style="fill:#0000ff;fill-rule:evenodd;stroke:none"
+       id="path3008"
+       transform="matrix(0.64,0,0,0.71680001,64,-28.262424)"
+       cx="700"
+       cy="575.14288"
+       rx="200"
+       ry="178.57143" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="canton"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#0000ff"
+       id="rect3132"
+       width="384"
+       height="256"
+       x="0"
+       y="-256"
+       ry="0"
+       transform="scale(1,-1)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="rays"
+     style="display:none">
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 832,0 h 128 z"
+       id="path3135"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 576,0 h 128 z"
+       id="path3135-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 1024,64 v 128 z"
+       id="path3135-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="m 512,384 512,-64 v 128 z"
+       id="path3135-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 192,0 H 64 Z"
+       id="path3135-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 448,0 H 320 Z"
+       id="path3135-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 0,64 v 128 z"
+       id="path3135-4-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 0,320 v 128 z"
+       id="path3135-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 832,768 H 960 Z"
+       id="path3135-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="m 512,384 64,384 h 128 z"
+       id="path3135-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="m 512,384 512,320 V 576 Z"
+       id="path3135-4-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 192,768 H 64 Z"
+       id="path3135-2-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 448,768 H 320 Z"
+       id="path3135-9-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0000ff;stroke:none"
+       d="M 512,384 0,704 V 576 Z"
+       id="path3135-4-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="rays copy#3"
+     id="g4271"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4273"
+       d="M 512,384 832,0 h 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4275"
+       d="M 512,384 576,0 h 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4277"
+       d="M 512,384 1024,64 v 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4279"
+       d="m 512,384 512,-64 v 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4289"
+       d="M 512,384 832,768 H 960 Z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4291"
+       d="m 512,384 64,384 h 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4293"
+       d="m 512,384 512,320 V 576 Z"
+       style="fill:#0000ff;stroke:none" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="rays copy#2"
+     id="g4241"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4243"
+       d="M 512,384 832,0 960,0 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4245"
+       d="M 512,384 576,0 704,0 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4247"
+       d="m 512,384 512,-320 0,128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4249"
+       d="m 512,384 512,-64 0,128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4251"
+       d="M 512,384 192,0 64,0 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4253"
+       d="M 512,384 448,0 320,0 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4255"
+       d="M 512,384 0,64 0,192 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4257"
+       d="M 512,384 0,320 0,448 z"
+       style="fill:#0000ff;stroke:none" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="rays copy#1"
+     id="g4070"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4072"
+       d="M 512,384 832,0 h 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4078"
+       d="m 512,384 512,-64 v 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4082"
+       d="M 512,384 448,0 H 320 Z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4084"
+       d="M 512,384 0,64 v 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4088"
+       d="M 512,384 832,768 H 960 Z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4096"
+       d="M 512,384 448,768 H 320 Z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4098"
+       d="M 512,384 0,704 V 576 Z"
+       style="fill:#0000ff;stroke:none" />
+  </g>
+  <g
+     inkscape:label="rays copy"
+     id="g4022"
+     inkscape:groupmode="layer"
+     style="display:none">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4024"
+       d="M 512,384 832,0 h 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4026"
+       d="M 512,384 576,0 h 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4028"
+       d="M 512,384 1024,64 v 128 z"
+       style="fill:#0000ff;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4030"
+       d="m 512,384 512,-64 v 128 z"
+       style="fill:#0000ff;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="cross"
+     style="display:none">
+    <rect
+       style="fill:#0000ff;stroke:none"
+       id="rect4101"
+       width="128"
+       height="768"
+       x="448"
+       y="0" />
+    <rect
+       style="fill:#0000ff;stroke:none"
+       id="rect4101-1"
+       width="1024"
+       height="128"
+       x="1.4210855e-14"
+       y="320" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="E - star"
+     style="display:none">
+    <path
+       transform="translate(-2.5723101e-6,256)"
+       sodipodi:type="star"
+       style="fill:#0000ff;stroke:none"
+       id="path4126-3"
+       sodipodi:sides="5"
+       sodipodi:cx="512"
+       sodipodi:cy="384"
+       sodipodi:r1="96"
+       sodipodi:r2="48"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 512,288 28.21369,57.16718 63.08774,9.16719 -45.65072,44.49845 10.77667,62.83281 L 512,432 l -56.42739,29.66563 10.77668,-62.83281 -45.65071,-44.49845 63.08773,-9.16719 z"
+       inkscape:transform-center-y="-9.1671843" />
+    <path
+       transform="translate(-2.5723101e-6,-240)"
+       sodipodi:type="star"
+       style="fill:#0000ff;stroke:none"
+       id="path4126-3-2"
+       sodipodi:sides="5"
+       sodipodi:cx="512"
+       sodipodi:cy="384"
+       sodipodi:r1="96"
+       sodipodi:r2="48"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 512,288 28.21369,57.16718 63.08774,9.16719 -45.65072,44.49845 10.77667,62.83281 L 512,432 l -56.42739,29.66563 10.77668,-62.83281 -45.65071,-44.49845 63.08773,-9.16719 z"
+       inkscape:transform-center-y="-9.1671843" />
+  </g>
+  <g
+     inkscape:label="E - star copy"
+     id="g4200"
+     inkscape:groupmode="layer"
+     style="display:none">
+    <path
+       inkscape:transform-center-y="-9.1671843"
+       d="m 512,288 28.21369,57.16718 63.08774,9.16719 -45.65072,44.49845 10.77667,62.83281 L 512,432 l -56.42739,29.66563 10.77668,-62.83281 -45.65071,-44.49845 63.08773,-9.16719 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.9424778"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:r2="48"
+       sodipodi:r1="96"
+       sodipodi:cy="384"
+       sodipodi:cx="512"
+       sodipodi:sides="5"
+       id="path4204"
+       style="fill:#0000ff;stroke:none"
+       sodipodi:type="star"
+       transform="translate(352,0)" />
+    <path
+       inkscape:transform-center-y="-9.1671843"
+       d="m 512,288 28.21369,57.16718 63.08774,9.16719 -45.65072,44.49845 10.77667,62.83281 L 512,432 l -56.42739,29.66563 10.77668,-62.83281 -45.65071,-44.49845 63.08773,-9.16719 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.9424778"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:r2="48"
+       sodipodi:r1="96"
+       sodipodi:cy="384"
+       sodipodi:cx="512"
+       sodipodi:sides="5"
+       id="path4206"
+       style="fill:#0000ff;stroke:none"
+       sodipodi:type="star"
+       transform="translate(-352,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4212"
+     inkscape:label="E - star copy copy"
+     style="display:none">
+    <path
+       sodipodi:type="star"
+       style="fill:#0000ff;stroke:none"
+       id="path4214"
+       sodipodi:sides="5"
+       sodipodi:cx="512"
+       sodipodi:cy="384"
+       sodipodi:r1="96"
+       sodipodi:r2="48"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 512,288 28.21369,57.16718 63.08774,9.16719 -45.65072,44.49845 10.77667,62.83281 L 512,432 l -56.42739,29.66563 10.77668,-62.83281 -45.65071,-44.49845 63.08773,-9.16719 z"
+       inkscape:transform-center-y="-9.1671843" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="strip_v"
+     style="display:none">
+    <rect
+       style="fill:#0000ff;stroke:none"
+       id="rect4302"
+       width="320"
+       height="768"
+       x="704"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="strip_v copy"
+     id="g4308"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       y="0"
+       x="0"
+       height="768"
+       width="320"
+       id="rect4312"
+       style="fill:#0000ff;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="middle stripe"
+     style="display:none">
+    <rect
+       style="fill:#0000ff;stroke:none"
+       id="rect4320"
+       width="384"
+       height="768"
+       x="320"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="massive circle"
+     style="display:none">
+    <circle
+       style="fill:#0000ff;stroke:none"
+       id="path4317"
+       transform="matrix(1.4282907,0.02803502,-0.02803502,1.4282907,-522.17665,-505.03451)"
+       cx="736"
+       cy="608"
+       r="224" />
+  </g>
+</svg>
