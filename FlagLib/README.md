@@ -9,7 +9,10 @@ Everything to make a flag is in here.
 
 
 
-## flag_layers.svg format
+# Improvements
+
+
+## TODO: Migrate flag_layers.svg format
 
 This file has a layer naming convention that instructs the code how to use a layer.
 

@@ -25,8 +25,8 @@ namespace FlagLib
         public Bitmap Render(Size flagSize)
         {
             IRenderer g = IRendererFactory.GetPreferredRenderer(flagSize.Width, flagSize.Height);
-            g.SetHighQuality(false);
-            //draw feild
+            g.SetHighQuality(true);
+            //draw field
             g.FillRectangle(FieldCol, 0, 0, flagSize.Width, flagSize.Height);
 
             //draw layers

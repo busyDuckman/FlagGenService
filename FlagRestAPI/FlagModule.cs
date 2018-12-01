@@ -62,7 +62,7 @@ namespace default_NancyFXT
 
                 //return "flag_" + args["id"];
                 
-                Bitmap bmp = flag.Render(new Size(640*2, 480*2));
+                Bitmap bmp = flag.Render(new Size(1024, 768));
                 using(MemoryStream ms = new MemoryStream())
                 {
                     bmp.Save(ms, ImageFormat.Png);
